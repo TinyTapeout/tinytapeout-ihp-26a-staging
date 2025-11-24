@@ -1,9 +1,9 @@
-116. Printing statistics.
+118. Printing statistics.
 
 === tt_um_factory_test ===
 
-   Number of wires:                 65
-   Number of wire bits:            100
+   Number of wires:                 56
+   Number of wire bits:             91
    Number of public wires:          17
    Number of public wire bits:      52
    Number of ports:                  8
@@ -17,7 +17,7 @@
      sg13g2_and2_1                  10
      sg13g2_and3_1                   2
      sg13g2_buf_1                    7
-     sg13g2_dfrbp_1                  9
+     sg13g2_dfrbpq_1                 9
      sg13g2_inv_1                    9
      sg13g2_nand2b_1                 7
      sg13g2_nand4_1                  1
@@ -26,6 +26,6 @@
      sg13g2_xnor2_1                  1
      sg13g2_xor2_1                   3
 
-   Chip area for module '\tt_um_factory_test': 975.882600
-     of which used for sequential elements: 424.569600 (43.51%)
+   Chip area for module '\tt_um_factory_test': 992.212200
+     of which used for sequential elements: 440.899200 (44.44%)
 
