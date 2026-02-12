@@ -1,0 +1,9 @@
+{
+  "app": "custom_gds action",
+  "repo": "https://github.com/urish/ttihp26a-analog-test",
+  "commit": "08eec407a74db280830fc42d012aabe084f4366d",
+  "workflow_url": "https://github.com/urish/ttihp26a-analog-test/actions/runs/21962717043",
+  "project_id": 14,
+  "sort_id": 1770928116352,
+  "analog": true
+}
